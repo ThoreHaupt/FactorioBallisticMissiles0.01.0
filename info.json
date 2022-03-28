@@ -1,0 +1,9 @@
+{
+    "name": "BallisticMissiles",
+    "Verson": "0.01.0",
+    "title": "Ballistic missiles",
+    "author": "Torero",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "describtion": "Ads long range ballisitc missiles into the game"
+}
